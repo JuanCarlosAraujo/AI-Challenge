@@ -1,0 +1,1 @@
+debido a los limites de subida de github he decido comprimir el archivo face.zip el cual contiene datos importantes para el funcionamiento del programa, por favor descomprimir en el mismo lugar donde esta el archivo, gracias.
